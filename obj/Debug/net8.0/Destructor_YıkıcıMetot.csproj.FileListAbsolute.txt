@@ -1,0 +1,14 @@
+/Users/emrahelis/Destructor_YıkıcıMetot/bin/Debug/net8.0/Destructor_YıkıcıMetot
+/Users/emrahelis/Destructor_YıkıcıMetot/bin/Debug/net8.0/Destructor_YıkıcıMetot.deps.json
+/Users/emrahelis/Destructor_YıkıcıMetot/bin/Debug/net8.0/Destructor_YıkıcıMetot.runtimeconfig.json
+/Users/emrahelis/Destructor_YıkıcıMetot/bin/Debug/net8.0/Destructor_YıkıcıMetot.dll
+/Users/emrahelis/Destructor_YıkıcıMetot/bin/Debug/net8.0/Destructor_YıkıcıMetot.pdb
+/Users/emrahelis/Destructor_YıkıcıMetot/obj/Debug/net8.0/Destructor_YıkıcıMetot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Destructor_YıkıcıMetot/obj/Debug/net8.0/Destructor_YıkıcıMetot.AssemblyInfoInputs.cache
+/Users/emrahelis/Destructor_YıkıcıMetot/obj/Debug/net8.0/Destructor_YıkıcıMetot.AssemblyInfo.cs
+/Users/emrahelis/Destructor_YıkıcıMetot/obj/Debug/net8.0/Destructor_YıkıcıMetot.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Destructor_YıkıcıMetot/obj/Debug/net8.0/Destructor_YıkıcıMetot.dll
+/Users/emrahelis/Destructor_YıkıcıMetot/obj/Debug/net8.0/refint/Destructor_YıkıcıMetot.dll
+/Users/emrahelis/Destructor_YıkıcıMetot/obj/Debug/net8.0/Destructor_YıkıcıMetot.pdb
+/Users/emrahelis/Destructor_YıkıcıMetot/obj/Debug/net8.0/Destructor_YıkıcıMetot.genruntimeconfig.cache
+/Users/emrahelis/Destructor_YıkıcıMetot/obj/Debug/net8.0/ref/Destructor_YıkıcıMetot.dll
